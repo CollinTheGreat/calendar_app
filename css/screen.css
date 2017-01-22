@@ -81,3 +81,9 @@ body {
   margin: 20px;
   color: green;
 }
+
+.calendar-container {
+  border: 2px solid black;
+  width: 90%;
+  margin: 15px 5%;
+}
