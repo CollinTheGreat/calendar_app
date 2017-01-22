@@ -54,3 +54,26 @@ table {
   background-repeat: no-repeat;
   background-position: 0 0;
 }
+
+body {
+  background: #d4d2d1;
+}
+
+.environ-space {
+  background: white;
+  border-radius: 5px;
+  box-shadow: inset 0 0 1em #d4d2d1;
+  font-family: 'Roboto', sans-serif;
+  margin: 20px 5%;
+  padding: 10px;
+}
+
+.calendar-space {
+  width: 80%;
+  height: 500px;
+}
+
+.log {
+  width: 90%;
+  height: 200px;
+}
