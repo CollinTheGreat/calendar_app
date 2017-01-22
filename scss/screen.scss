@@ -16,6 +16,11 @@ body{
   height: 500px;
 }
 .log{
-  width: 90%;
+  width: 80%;
   height:200px;
+
+  .log-content{
+    margin: 20px;
+    color:green;
+  }
 }
