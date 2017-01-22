@@ -13,11 +13,11 @@ body{
 }
 .calendar-space{
   width: 80%;
-  height: 500px;
 }
 .log{
   width: 80%;
   height:200px;
+  overflow: hidden;
 
   .log-content{
     margin: 20px;
@@ -30,6 +30,12 @@ body{
 
 .calendar-container{
   border: 2px solid black;
-  width: 90%;
-  margin: 15px 5%;
+  width: 80%;
+  margin: 15px 10%;
+}
+.calendar-grid{
+
+  .row{
+    
+  }
 }
